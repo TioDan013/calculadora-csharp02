@@ -1,4 +1,4 @@
-# Calculadora Simples em C# (Versão Humanizada)
+# Calculadora Simples em C# 
 
 Este é um projeto em C# de uma calculadora simples, com mensagens mais amigáveis e humanizadas para uma melhor experiência do usuário.
 
